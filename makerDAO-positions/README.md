@@ -23,10 +23,10 @@ http://localhost:5173
 
 ## Testing smart contract in foundry
 
-1. Build the project:
+1. Build project:
 forge build
 
-2. Run the test with forking the mainnet:
+2. Run test with forking the mainnet:
 forge test --fork-url https://eth-mainnet.g.alchemy.com/v2/bbWH3mmS01b30XB4DeD9X7A3agcTrzVU -vvvv
 
 
