@@ -7,10 +7,10 @@ Interaction with MakerDAO Protocol and Collateral Debt Positions
 ## Running the React-app
 
 1. Clone the repository:
-git clone <repository URL>
+git clone https://github.com/miki815/MakerDAO-cdp-info.git
 
 2. Navigate to the project directory:
-cd project-name
+cd MakerDAO-cdp-info/makerDAO-positions
 
 3. Install all necessary dependencies:
 npm install
